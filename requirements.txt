@@ -1,0 +1,5 @@
+telethon
+aiohttp
+python-socks
+PySocks
+python-dotenv
